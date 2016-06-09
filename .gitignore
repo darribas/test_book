@@ -1,0 +1,5 @@
+.DS_Store
+_book
+*/.ipynb_checkpoints/*
+*/.ipynb_checkpoints/
+.ipynb_checkpoints/
